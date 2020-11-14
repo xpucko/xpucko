@@ -1,5 +1,20 @@
-### Hi there 👋
+<h1 align='center'>
+  Hi there 👋 I'm Hristiyan 👨‍💻
+</h1>
 
+<p align='center'>
+  A student at Software University - SoftUni.
+</p>
+
+<p align='center'>
+  <a href="https://instagram.com/valchev.h">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=xpucko&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 <!--
 **xpucko/xpucko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,4 +41,5 @@ Here are some ideas to get you started:
 <a target="_blank" href="mailto:hristiyan.plamenov.valchev@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+
 ![xpucko GitHub Stats](https://github-readme-stats.vercel.app/api?username=xpucko&show_icons=true)
