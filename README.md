@@ -1,10 +1,9 @@
 <h1 align='center'>
   Hi there 👋 I'm Hristiyan 👨‍💻
-  Currently studying and seeking an internship or entry-level position in software development.
 </h1>
 
 <p align='center'>
-  A student at Software University - SoftUni.
+  Currently studying at Software University (softuni.bg) and seeking an internship or entry-level position in software development.
 </p>
 
 <p align='center'>
