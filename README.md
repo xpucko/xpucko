@@ -15,9 +15,6 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=xpucko&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
 <!--
 **xpucko/xpucko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,17 +29,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a target="_blank" href="https://www.instagram.com/valchev.h/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-<a target="_blank" href="https://www.facebook.com/xpucko">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-
-<a target="_blank" href="mailto:hristiyan.plamenov.valchev@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
 
 ![xpucko GitHub Stats](https://github-readme-stats.vercel.app/api?username=xpucko&show_icons=true)
